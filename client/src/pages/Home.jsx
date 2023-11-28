@@ -62,8 +62,8 @@ const Home = () => {
   return (
     <section className="max-w-7xl mx-auto">
       <div>
-        <h1 className="font-extrabold text-[#222328] text-[32px]">
-          The Community Showcase
+        <h1 className="font-extrabold text-[#222328] text-[25px]">
+          Image Gallery
         </h1>
         <p className="mt-2 text-[#666e75] text-[16px] max-w[500px]">
           Browse through a collection of imagination and visually stunning
